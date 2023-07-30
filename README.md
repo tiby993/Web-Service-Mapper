@@ -8,7 +8,7 @@
 ```
 ./main -file domains.csv
 ```
-## Switches (Flags)
+## Flags
 
 -file / --file: This switch is used to specify the path to the CSV file containing the domain names. It is a required switch, and without it, the program will not know which CSV file to process.
 
